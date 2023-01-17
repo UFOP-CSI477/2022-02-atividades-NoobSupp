@@ -2,11 +2,11 @@
 
 ## Atualize os seus dados
 
-- Nome:
-- Matrícula:
-- Curso:
-- Semestre/Ano correntes:
-- Link para o seu GitHub:
+- Nome: Mateus Mascagni
+- Matrícula: 20.1.8007
+- Curso: Engenharia de Computação
+- Semestre/Ano correntes: 6 periodo
+- Link para o seu GitHub: https://github.com/NoobSupp
 
 ## [Projeto final:](./Projeto/README.md)
 
